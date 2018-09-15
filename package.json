@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build": "pkg --out-dir dist --options experimental-modules,loader=./loader.mjs index.mjs"
+  }
+}
